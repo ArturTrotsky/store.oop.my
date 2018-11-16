@@ -1,2 +1,2 @@
 # store.oop.my
-# store.oop.my
+# autor: Artur Trotsky
